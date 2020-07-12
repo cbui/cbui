@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like deployments and tooling for developers.
+[I write about deployments and tooling for developers.](https://cbui.dev)
 
 <!--
 **cbui/cbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
