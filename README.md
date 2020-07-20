@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[I write about deployments and tooling for developers.](https://cbui.dev)
+I'm a staff software engineer at Venmo (PayPal) working on developer tooling and infrastructure.
+
+I like deployments and tooling for developers.
+
+[I write here.](https://cbui.dev)
 
 <!--
 **cbui/cbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
