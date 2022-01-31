@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a staff software engineer at Venmo (PayPal) working on developer tooling and infrastructure.
+Former staff software engineer at Venmo (PayPal) working on developer tooling and infrastructure.
+
+Now a staff engineer at Flex (getflex.com) leading DevOps and Infra.
 
 I'm passionate about deployments and tooling for developers.
 
