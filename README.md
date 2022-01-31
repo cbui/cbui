@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Former staff software engineer at Venmo (PayPal) working on developer tooling and infrastructure.
-
-Now a staff engineer at Flex (getflex.com) leading DevOps and Infra.
-
 I'm passionate about deployments and tooling for developers.
+
+Staff engineer at Flex (getflex.com) leading DevOps and Infra. 
+
+Former staff software engineer at Venmo (PayPal) working on developer tools and infra (CI). I led Venmo's migration from Jenkins to GitHub Actions.
 
 I write at [https://cbui.dev](https://cbui.dev)
 
